@@ -1,0 +1,17 @@
+For the first question, I thought the description was not clarifying enough, I tried to google
+for this - from the first read it was obvious I needed to apply some geometric algorithm
+not quite sure,
+So I googled
+Non-intersecting minimization algorithm and i could not find any viable results.
+
+For 2nd question:
+This problem could have been better solved with the help of Knapsack using Dynamic programming 
+but it was getting extremely verbrose and complex for my own understanding
+
+
+For 3rd question:
+The description was okayish enough, but again lacked the desired output, Like what should
+have been the output - The number of paths we can take to satisfy the given conditions,
+Number of unique paths, the exact path. 
+
+That's the best I could do with what was given.
